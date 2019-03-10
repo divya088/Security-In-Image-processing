@@ -1,0 +1,11 @@
+Security in Image processing
+
+IDE-Matlab
+ Sender:
+ Encryption technique
+ Image with private key over N no of shares
+  convert N no of encrypt images
+   Reciever:
+   Decryption technique
+   secret key
+   decrpt in origional image
